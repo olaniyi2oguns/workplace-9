@@ -4,6 +4,10 @@ This project is a continuation of the last project ([workplace-8](https://github
 
 # Installation and configuration of Jenkins server
 
+The image below shows the architecture of the solution we want to make. 
+
+![Solution](./image/Solution.jpg)
+
 # Step 1 -Install Jenkins Server
 
 1 *Create an AWS EC2 server based on Ubuntu Server and you can give it any name you like*.

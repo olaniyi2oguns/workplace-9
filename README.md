@@ -2,6 +2,10 @@
 
 This project is a continuation of the last project ([workplace-8](https://github.com/olaniyi2oguns/Workplace-8.git))
 
+**Objective of the project**
+
+*The objective of this project is to introduce the concept of automation of routine tasks in DevOps and use Jenkins, a popular open source automation server, to automate the deployment process of our Tooling Website. The project highlights the importance of automation in ensuring speedy and repeatable deployments, especially when dealing with a large number of servers. Continuous integration (CI) is also introduced as a software development strategy that increases development speed while ensuring code quality. The project aims to use Jenkins to automate the building and testing of code before merging it with the shared repository.*
+
 # Installation and configuration of Jenkins server
 
 The image below shows the architecture of the solution we want to make. 

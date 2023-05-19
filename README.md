@@ -82,7 +82,7 @@ Once the plugins have been installed successfully, create admin user and passwor
 
 ![jenkins-ready](./image/jenkins-instance-config.jpg)
 
-# Step 2 Configure Jenkinsto retrieve source codes from GitHub using Webhook
+# Step 2 Configure Jenkins to retrieve source codes from GitHub using Webhook
 
 Login to your github account and open the repository where your work is located. Click on settings and select "webhooks"
 
